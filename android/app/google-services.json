@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084840537112",
+    "project_id": "otp-demo-acaf8",
+    "storage_bucket": "otp-demo-acaf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084840537112:android:2c8c51b77d56900437e76d",
+        "android_client_info": {
+          "package_name": "com.example.otp_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084840537112-tkd0u8k754klckjm7106jvk5duvi2be5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0Gz-h9nwe3s4FcpuLojgW5x_b3Bqafk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084840537112-tkd0u8k754klckjm7106jvk5duvi2be5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
